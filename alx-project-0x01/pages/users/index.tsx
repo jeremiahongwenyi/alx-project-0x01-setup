@@ -1,4 +1,5 @@
 // pages/posts/index.tsx
+import Header from '@/components/layout/Header';
 import React from 'react';
 
 const UsersPage: React.FC = () => {
